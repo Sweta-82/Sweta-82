@@ -1,5 +1,5 @@
 ## Hi there 👋
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1>Hi 👋, I'm Sweta</h1>
 <p>A passionate full-stack developer </p>
 <h2>🚀 Languages and Tools I Use</h2>
